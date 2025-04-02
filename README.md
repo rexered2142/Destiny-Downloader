@@ -23,4 +23,4 @@
 
 # Поддержка  
 📌 Присоединяйтесь к нашему **Discord-серверу**:  
-[![Discord](https://img.shields.io/discord/123456789?logo=discord&logoColor=white)](https://discord.gg/pEQEY6UdgA)  
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.gg/pEQEY6UdgA)
