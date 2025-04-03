@@ -14,7 +14,15 @@
 
 # Как использовать?  
 1️⃣ Вставьте **ссылку** на видео или плейлист.  
-2️⃣ *(Опционально)* Выберите **файл cookies**, если видео приватное или имеет возрастной рейтинг.  
+2️⃣ *(Опционально)* Выберите **файл cookies**, если видео приватное или имеет возрастной рейтинг. Для этого следуйте следующим шагам:
+
+    - Установите расширение **Cookie Editor** в вашем браузере через [Chrome Web Store](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm).
+    - Зайдите на сайт **YouTube**.
+    - Нажмите на кнопку расширений в браузере и выберите **Cookie Editor**.
+    - В Cookie Editor выберите **Экспорт** в формате **Netscape**.
+    - Создайте .txt файл на рабочем столе и вставьте то, что скопировали.
+    - Выберите этот файл в программе для загрузки приватных видео.
+
 3️⃣ Выберите **папку для загрузки** *(если не выбрано, видео будет загружаться на рабочий стол)*.  
 4️⃣ Выберите **качество видео** *(если доступно в оригинале)*.  
 5️⃣ Если хотите получить **лучшее качество** видео, поставьте галочку на опцию **"Использовать FFmpeg"** (это обеспечит максимальное качество).
@@ -46,7 +54,15 @@
 
 # Як використовувати?  
 1️⃣ Вставте **посилання** на відео або плейлист.  
-2️⃣ *(Опціонально)* Виберіть **файл cookies**, якщо відео приватне або має вікове обмеження.  
+2️⃣ *(Опціонально)* Виберіть **файл cookies**, якщо відео приватне або має вікове обмеження. Для цього виконайте наступні кроки:
+
+    - Встановіть розширення **Cookie Editor** у вашому браузері через [Chrome Web Store](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm).
+    - Перейдіть на сайт **YouTube**.
+    - Натисніть на кнопку розширень у браузері та виберіть **Cookie Editor**.
+    - У Cookie Editor виберіть **Експортувати** у форматі **Netscape**.
+    - Створіть .txt файл на робочому столі та вставте те що скопіювали.
+    - Виберіть цей файл у програмі для завантаження приватних відео.
+
 3️⃣ Виберіть **папку для завантаження** *(якщо не вибрано, відео буде завантажено на робочий стіл)*.  
 4️⃣ Виберіть **якість відео** *(якщо є вибір на оригінальному відео)*.  
 5️⃣ Якщо хочете отримати **кращу якість** відео, поставте галочку на опцію **"Використовувати FFmpeg"** (це забезпечить максимальну якість).
@@ -77,7 +93,15 @@
 
 # How to use?  
 1️⃣ Paste **a link** to a video or playlist.  
-2️⃣ *(Optional)* Select a **cookies file** if the video is private or age-restricted.  
+2️⃣ *(Optional)* Select a **cookies file** if the video is private or age-restricted. To do this, follow these steps:
+
+    - Install the **Cookie Editor** extension in your browser via the [Chrome Web Store](https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm).
+    - Go to the **YouTube** website.
+    - Click on the extensions button in your browser and choose **Cookie Editor**.
+    - In Cookie Editor, choose **Export** in **Netscape** format.
+    - Create a .txt file on your desktop and paste what you copied.
+    - Select this file in the program to download private videos.
+
 3️⃣ Choose a **download folder** *(if not selected, video will be downloaded to Desktop)*.  
 4️⃣ Select **video quality** *(if available in the original video)*.  
 5️⃣ If you want the **best video quality**, check the option **"Use FFmpeg"** (this will ensure the highest quality).
