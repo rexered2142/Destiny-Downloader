@@ -114,3 +114,7 @@
 # Support  
 📌 Join our **Discord server**:  
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&logoColor=white)](https://discord.gg/pEQEY6UdgA)
+# GUI
+![image](https://github.com/user-attachments/assets/320622d1-a6fd-4ec4-8a45-1394a4b0253c)
+![image](https://github.com/user-attachments/assets/96d301bc-36d7-4088-8ec1-e3815a9a54a2)
+![image](https://github.com/user-attachments/assets/e85ba8b2-9143-4294-a8ee-a8ede6ed8439)
