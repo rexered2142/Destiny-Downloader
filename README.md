@@ -1,4 +1,4 @@
-# YouTube Downloader – приложение для загрузки видео и плейлистов с YouTube  
+# Destiny Downloader – приложение для загрузки видео и плейлистов с YouTube  
 *(Scroll down for English 🇺🇸 / Прокрутіть вниз для української версії 🇺🇦)*  
 
 ---
@@ -17,7 +17,7 @@
 ---
 
 ## 💾 Скачать  
-👉 [Последняя версия на GitHub](https://github.com/rexered2142/Youtube-Downloader/releases)
+👉 [Последняя версия на GitHub](https://github.com/rexered2142/Destiny-Downloader/releases)
 
 ---
 
@@ -43,7 +43,7 @@
 
 ---
 
-# 🇺🇦 YouTube Downloader – додаток для завантаження відео та плейлистів з YouTube  
+# 🇺🇦 Destiny Downloader – додаток для завантаження відео та плейлистів з YouTube  
 
 ---
 
@@ -67,7 +67,7 @@
 
 ---
 
-# 🇺🇸 YouTube Downloader – app for downloading YouTube videos & playlists  
+# 🇺🇸 Destiny Downloader – app for downloading YouTube videos & playlists  
 
 ---
 
