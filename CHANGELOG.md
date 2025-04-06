@@ -1,4 +1,4 @@
-# 📦 Changelog – YouTube Downloader 1.4 beta
+# 📦 Changelog – Destiny Downloader 1.4 beta
 
 ---
 
@@ -21,7 +21,7 @@
 - При выборе качества "best" может скачаться видео в нестандартном формате — **рекомендуется использовать 1080p или 720p**
 - Если получаете ошибку `403 Forbidden` при использовании cookies:
   - Cookies скорее всего **устарели**
-  - Зайдите в `%appdata%/YoutubeDownloader` и обнулите путь `cookies_path`
+  - Зайдите в `%appdata%/DestinyDownloader` и обнулите путь `cookies_path`
   - Рекомендуется **обновлять cookies каждые 30 минут** или отключать при ошибках
 
 ---
@@ -45,7 +45,7 @@
 - When using **"best" quality**, some videos may download in non-standard formats — use **1080p or 720p** instead
 - Got a `403 Forbidden` error while using cookies?
   - Cookies are likely **expired**
-  - Open `%appdata%/YoutubeDownloader`, and clear the path from `cookies_path`
+  - Open `%appdata%/DestinyDownloader`, and clear the path from `cookies_path`
   - It is recommended to **update cookies every 30 minutes**, or disable them temporarily
 
 ---
@@ -69,7 +69,7 @@
 - При виборі "best" може завантажитись нестандартний формат — рекомендується **1080p або 720p**
 - Якщо бачите помилку `403 Forbidden` з cookies:
   - Cookies, ймовірно, **протерміновані**
-  - Зайдіть у `%appdata%/YoutubeDownloader`, та очистіть шлях `cookies_path`
+  - Зайдіть у `%appdata%/DestinyDownloader`, та очистіть шлях `cookies_path`
   - Рекомендується **оновлювати cookies кожні 30 хвилин** або тимчасово їх відключати
 
 ---
